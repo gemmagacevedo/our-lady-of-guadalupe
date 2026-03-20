@@ -7,7 +7,7 @@ description: "This website will be an exploration of the story of Our Lady of Gu
 url: "https://gemmagacevedo.github.io"
 baseurl: "/our-lady-of-guadalupe"
 author: "Gemma Acevedo"
-telar_theme: "custom" # Options: paisajes, neogranadina, santa-barbara, austin, trama, or custom
+telar_theme: "paisajes" # Options: paisajes, neogranadina, santa-barbara, austin, trama, or custom
 logo: ""
 telar_language: "en"
 
