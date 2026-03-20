@@ -3,11 +3,11 @@
 
 # Site Settings
 title: "La Virgencita"
-description: "An exploration of the Virgin of Guadalupe as a symbol within Mexican/Chicanx culture."
+description: "This website will be an exploration of the story of Our Lady of Guadalupe and her status as a symbol within Mexican/Chicanx culture. The Virgin of Guadalupe is a fascinating cultural and religious figure that serves as many different things to different people. This website will focus on her impact and presence among the Chicanx and Mexican immigrant communities in the Unites States. I will begin with the story of Her first appearance as Guadalupe, including her origins as Tonantzin, and then I will move forward with analyzing her place within Chicanx and Mexican art, activism, religious traditions, and daily life. It is now more important than ever that we work to document and preserve Chicanx and Mexican culture."
 url: "https://gemmagacevedo.github.io"
 baseurl: "/our-lady-of-guadalupe"
 author: "Gemma Acevedo"
-telar_theme: "santa-barbara" # Options: paisajes, neogranadina, santa-barbara, austin, trama, or custom
+telar_theme: "guadalupecustomtheme" # Options: paisajes, neogranadina, santa-barbara, austin, trama, or custom
 logo: ""
 telar_language: "en"
 
